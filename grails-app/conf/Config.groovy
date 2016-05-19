@@ -98,8 +98,8 @@ environments {
     }
 }
 
-//StaticHelper.helpClosure(['a','b','c'])
-StaticHelper.helpNonClosure(['a','b', 'c'])
+StaticHelper.helpClosure(['a','b','c'])
+// StaticHelper.helpNonClosure(['a','b', 'c'])
 
 // log4j configuration
 log4j.main = {
