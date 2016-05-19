@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/reloading-error-sample.iml" filepath="$PROJECT_DIR$/reloading-error-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reloading-error-sample-grailsPlugins.iml" filepath="$PROJECT_DIR$/reloading-error-sample-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
